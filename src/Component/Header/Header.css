@@ -1,0 +1,26 @@
+img{
+    width: 300px;
+    
+}
+  
+.nav-link{
+    color: white;
+    margin-left: 40px;
+    padding:10px;
+   
+}
+.nav-link:hover{
+    border: none;
+    color:white;
+    background-color:gray;
+   
+}
+.nav-item a{
+    
+}
+.nav-item a:hover{
+   
+}
+/* .navbar-nav{
+    margin: 0px auto;
+} */

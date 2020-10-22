@@ -1,0 +1,14 @@
+.box{
+    border-bottom: 2px solid gray;
+    padding: 20px 10px;
+     
+}
+.product-container{
+    border-right: 2px solid gray;
+}
+.img{
+    width:200px;
+}
+.content h4{
+    color: blue;
+}
